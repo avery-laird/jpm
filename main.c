@@ -1,9 +1,6 @@
 /*!
+ *
  * simple project manager for jekyll.
- *
- * usage: projekt post [postname] | ""
- *
- * -e  --editor=EDITOR (has to be a binary on the path, not a name)
  *
  */
 
